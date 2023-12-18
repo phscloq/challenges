@@ -8,7 +8,7 @@ export default function Home() {
             <button className=' bg-slate-100  rounded-3xl text-sm py-2 px-3 mr-4'>Filters off</button>
             <button className=' bg-slate-100  rounded-3xl text-sm py-2 px-3'>Most recent</button>
         </div>
-        <div className=''>
+        <div>
           <button className=' text-xs mr-4 hover:bg-slate-100 hover:rounded-full px-3 py-2'>|</button>
           <button className=' text-xs mr-4 hover:bg-slate-100 hover:rounded-full px-3 py-2'>||</button>
           <button className=' text-xs mr-4 hover:bg-slate-100 hover:rounded-full px-3 py-2'>|||</button>
