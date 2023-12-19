@@ -18,7 +18,7 @@ export default function Home() {
 
       <div className='grid-cols-2 grid gap-6'>
           
-          <div className='flex   gap-4'>
+          <div className='flex  min-h-[252px] gap-4'>
               <div className=' bg-slate-100 justify-center flex items-center w-1/2'>
                 <h1 className=' text-4xl'>Tree</h1>
               </div>
@@ -30,18 +30,17 @@ export default function Home() {
                     <p className=' font-bold'>$19.99</p>
                   </div>
                   <div className=' '>
-                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>Perfect for adding a festive touch to any space, this miniature tree brings the magic of Christmas right into your home. Crafted with care, it's a delightful 
-                      minima neque repellat. Quia?</p>
+                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>Perfect for adding a festive touch to any space, this miniature tree brings the magic of Christmas right into your home.</p>
                   </div>
                 </div>
-                <div className=''>
+                <div className=' mt-auto'>
                   <button className='px-3 py-2 text-sm bg-slate-700 text-white border-solid'>Add to cart</button>
                 </div>
                 
               </div>
           </div>
 
-          <div className='flex   gap-4'>
+          <div className='flex   min-h-[252px] gap-4'>
               <div className=' bg-slate-100 justify-center flex items-center w-1/2'>
                 <h1 className=' text-4xl'>Tree</h1>
               </div>
@@ -53,7 +52,7 @@ export default function Home() {
                     <p className=' font-bold'>$19.99</p>
                   </div>
                   <div className=' '>
-                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>Perfect for adding a festive touch to any space, this miniature tree brings the magic of Christmas right into your home. Crafted with care, it's a delightful 
+                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>  Crafted with care, it's a delightful 
                       minima neque repellat. Quia?</p>
                   </div>
                 </div>
@@ -64,7 +63,7 @@ export default function Home() {
               </div>
           </div>
 
-          <div className='flex   gap-4'>
+          <div className='flex min-h-[252px]  gap-4'>
               <div className=' bg-slate-100 justify-center flex items-center w-1/2'>
                 <h1 className=' text-4xl'>Tree</h1>
               </div>
@@ -76,18 +75,17 @@ export default function Home() {
                     <p className=' font-bold'>$19.99</p>
                   </div>
                   <div className=' '>
-                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>Perfect for adding a festive touch to any space, this miniature tree brings the magic of Christmas right into your home. Crafted with care, it's a delightful 
-                      minima neque repellat. Quia?</p>
+                    <p className=' text-gray-500 mb-4 overflow-ellipsis'>Perfect for adding a festive touch to any space, this miniature tree brings the magic of Christmas right into your home.</p>
                   </div>
                 </div>
-                <div className=''>
+                <div className='mt-auto'>
                   <button className='px-3 py-2 text-sm bg-slate-700 text-white border-solid'>Add to cart</button>
                 </div>
                 
               </div>
           </div>
 
-          <div className='flex   gap-4'>
+          <div className='flex min-h-[252px]  gap-4'>
               <div className=' bg-slate-100 justify-center flex items-center w-1/2'>
                 <h1 className=' text-4xl'>Tree</h1>
               </div>
